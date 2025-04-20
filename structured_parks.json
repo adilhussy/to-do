@@ -1,0 +1,2261 @@
+[
+  {
+    "name": "Frank Decolvenaere Dog Run",
+    "borough": "B",
+    "location": {
+      "zip_code": "11209",
+      "coordinates": {}
+    },
+    "amenities": {
+      "surface": "Synthetic",
+      "status": ""
+    },
+    "details": {
+      "park_id": 2797,
+      "property_number": "",
+      "system": "B082-DOGAREA0045",
+      "gispropnum": "B082",
+      "department": "B-10",
+      "parentid": "B082",
+      "communityboard": "310",
+      "councildistrict": "43",
+      "precinct": "68",
+      "dog_area_type": "Dog Run",
+      "seating": "Yes",
+      "featurestatus": "Active"
+    }
+  },
+  {
+    "name": "Frank S. Hackett Park Dog Run",
+    "borough": "X",
+    "location": {
+      "zip_code": "10471",
+      "coordinates": {}
+    },
+    "amenities": {
+      "surface": "Unknown",
+      "status": ""
+    },
+    "details": {
+      "park_id": 256,
+      "property_number": "",
+      "system": "X110A-DOGAREA0022",
+      "gispropnum": "X110A",
+      "department": "X-08",
+      "parentid": "X110A",
+      "communityboard": "208",
+      "councildistrict": "11",
+      "precinct": "50",
+      "dog_area_type": "Dog Run",
+      "featurestatus": "Active"
+    }
+  },
+  {
+    "name": "Kensington Dog Run",
+    "borough": "B",
+    "location": {
+      "zip_code": "11226",
+      "coordinates": {}
+    },
+    "amenities": {
+      "surface": "Natural",
+      "status": ""
+    },
+    "details": {
+      "park_id": 2789,
+      "property_number": "",
+      "system": "B068-DOGAREA0044",
+      "gispropnum": "B068",
+      "department": "B-14",
+      "parentid": "B068",
+      "communityboard": "314",
+      "councildistrict": "40",
+      "precinct": "70",
+      "dog_area_type": "Dog Run",
+      "seating": "Yes",
+      "featurestatus": "Active"
+    }
+  },
+  {
+    "name": "Triborough Bridge Playground C Dog Run",
+    "borough": "Q",
+    "location": {
+      "zip_code": "11102",
+      "coordinates": {}
+    },
+    "amenities": {
+      "surface": "Asphalt",
+      "status": ""
+    },
+    "details": {
+      "park_id": 2788,
+      "property_number": "",
+      "system": "Q066C-DOGAREA0018",
+      "gispropnum": "Q066C",
+      "department": "Q-01",
+      "parentid": "Q066C",
+      "communityboard": "401",
+      "councildistrict": "22",
+      "precinct": "114",
+      "dog_area_type": "Dog Run",
+      "seating": "Yes",
+      "featurestatus": "Active"
+    }
+  },
+  {
+    "name": "Bronx River Park Dog Run",
+    "borough": "X",
+    "location": {
+      "zip_code": "10462",
+      "coordinates": {}
+    },
+    "amenities": {
+      "surface": "Unknown",
+      "status": ""
+    },
+    "details": {
+      "park_id": 2388,
+      "property_number": "",
+      "system": "X002-DOGAREA0029",
+      "gispropnum": "X002",
+      "department": "X-14",
+      "parentid": "X002",
+      "communityboard": "227",
+      "councildistrict": "15",
+      "precinct": "49",
+      "dog_area_type": "Dog Run",
+      "seating": "Yes",
+      "featurestatus": "Active"
+    }
+  },
+  {
+    "name": "Sirius Dog Run",
+    "borough": "M",
+    "location": {
+      "zip_code": "",
+      "coordinates": {}
+    },
+    "amenities": {
+      "surface": "Unknown",
+      "status": ""
+    },
+    "details": {
+      "park_id": 1993,
+      "property_number": "",
+      "system": "M283A-DOGAREA0042",
+      "gispropnum": "M283A",
+      "department": "M-01",
+      "parentid": "M283A",
+      "dog_area_type": "Dog Run",
+      "featurestatus": "Active"
+    }
+  },
+  {
+    "name": "West Thames Street Dog Run",
+    "borough": "M",
+    "location": {
+      "zip_code": "",
+      "coordinates": {}
+    },
+    "amenities": {
+      "surface": "Unknown",
+      "status": ""
+    },
+    "details": {
+      "park_id": 1992,
+      "property_number": "",
+      "department": "M-01",
+      "dog_area_type": "Dog Run",
+      "featurestatus": "Active"
+    }
+  },
+  {
+    "name": "Bellevue South Park Dog Run",
+    "borough": "M",
+    "location": {
+      "zip_code": "",
+      "coordinates": {}
+    },
+    "amenities": {
+      "surface": "Unknown",
+      "status": ""
+    },
+    "details": {
+      "park_id": 1991,
+      "property_number": "",
+      "system": "M263-DOGAREA0040",
+      "gispropnum": "M263",
+      "department": "M-06",
+      "parentid": "M263",
+      "dog_area_type": "Dog Run",
+      "featurestatus": "Active"
+    }
+  },
+  {
+    "name": "Ida Court Dog Run",
+    "borough": "R",
+    "location": {
+      "zip_code": "",
+      "coordinates": {}
+    },
+    "amenities": {
+      "surface": "Unknown",
+      "status": ""
+    },
+    "details": {
+      "park_id": 1990,
+      "property_number": "",
+      "system": "R097-DOGAREA0013",
+      "gispropnum": "R097",
+      "department": "R-03",
+      "parentid": "R097",
+      "dog_area_type": "Dog Run",
+      "featurestatus": "Active"
+    }
+  },
+  {
+    "name": "Pier 84 Dog Run",
+    "borough": "M",
+    "location": {
+      "zip_code": "",
+      "coordinates": {}
+    },
+    "amenities": {
+      "surface": "Unknown",
+      "status": ""
+    },
+    "details": {
+      "park_id": 1989,
+      "property_number": "",
+      "department": "M-04",
+      "dog_area_type": "Dog Run",
+      "featurestatus": "Active"
+    }
+  },
+  {
+    "name": "Tribeca Dog Park",
+    "borough": "M",
+    "location": {
+      "zip_code": "",
+      "coordinates": {}
+    },
+    "amenities": {
+      "surface": "Unknown",
+      "status": ""
+    },
+    "details": {
+      "park_id": 1988,
+      "property_number": "",
+      "department": "M-01",
+      "dog_area_type": "Dog Run",
+      "featurestatus": "Active"
+    }
+  },
+  {
+    "name": "Cooper Park Small Dog Run",
+    "borough": "B",
+    "location": {
+      "zip_code": "",
+      "coordinates": {}
+    },
+    "amenities": {
+      "surface": "Sand",
+      "status": ""
+    },
+    "details": {
+      "park_id": 1589,
+      "property_number": "",
+      "system": "B025-DOGAREA0005",
+      "gispropnum": "B025",
+      "department": "B-01",
+      "parentid": "B025",
+      "dog_area_type": "Dog Run",
+      "seating": "Yes",
+      "featurestatus": "Active"
+    }
+  },
+  {
+    "name": "Cooper Park Large Dog Run",
+    "borough": "B",
+    "location": {
+      "zip_code": "",
+      "coordinates": {}
+    },
+    "amenities": {
+      "surface": "Sand",
+      "status": ""
+    },
+    "details": {
+      "park_id": 1588,
+      "property_number": "",
+      "system": "B025-DOGAREA0004",
+      "gispropnum": "B025",
+      "department": "B-01",
+      "parentid": "B025",
+      "dog_area_type": "Dog Run",
+      "seating": "Yes",
+      "featurestatus": "Active"
+    }
+  },
+  {
+    "name": "Riverside Park South Dog Run",
+    "borough": "M",
+    "location": {
+      "zip_code": "",
+      "coordinates": {}
+    },
+    "amenities": {
+      "surface": "Natural",
+      "status": ""
+    },
+    "details": {
+      "park_id": 1189,
+      "property_number": "",
+      "system": "M071-DOGAREA0020",
+      "gispropnum": "M071",
+      "department": "M-14",
+      "parentid": "M071",
+      "precinct": "20",
+      "dog_area_type": "Dog Run",
+      "seating": "Yes",
+      "featurestatus": "Active"
+    }
+  },
+  {
+    "name": "Greenwood Playground Dog Run",
+    "borough": "B",
+    "location": {
+      "zip_code": "11218",
+      "coordinates": {}
+    },
+    "amenities": {
+      "surface": "Natural",
+      "status": ""
+    },
+    "details": {
+      "park_id": 1188,
+      "property_number": "",
+      "system": "B130-DOGAREA0031",
+      "gispropnum": "B130",
+      "department": "B-07",
+      "parentid": "B130",
+      "communityboard": "307",
+      "councildistrict": "39",
+      "precinct": "72",
+      "dog_area_type": "Dog Run",
+      "featurestatus": "Active"
+    }
+  },
+  {
+    "name": "Fox Playground Dog Run",
+    "borough": "X",
+    "location": {
+      "zip_code": "10455",
+      "coordinates": {}
+    },
+    "amenities": {
+      "surface": "Unknown",
+      "status": ""
+    },
+    "details": {
+      "park_id": 1187,
+      "property_number": "",
+      "system": "X247-DOGAREA0028",
+      "gispropnum": "X247",
+      "department": "X-02",
+      "parentid": "X247",
+      "communityboard": "202",
+      "councildistrict": "8",
+      "precinct": "41",
+      "dog_area_type": "Dog Run",
+      "featurestatus": "Active"
+    }
+  },
+  {
+    "name": "Fort Independence Playground Dog Run",
+    "borough": "X",
+    "location": {
+      "zip_code": "",
+      "coordinates": {}
+    },
+    "amenities": {
+      "surface": "Unknown",
+      "status": ""
+    },
+    "details": {
+      "park_id": 1186,
+      "property_number": "",
+      "system": "X020-DOGAREA0008",
+      "gispropnum": "X020",
+      "department": "X-08",
+      "parentid": "X020",
+      "communityboard": "208",
+      "councildistrict": "11",
+      "precinct": "50",
+      "dog_area_type": "Dog Run",
+      "seating": "Yes",
+      "featurestatus": "Active"
+    }
+  },
+  {
+    "name": "Overlook Dog Park / The Barking Lot",
+    "borough": "Q",
+    "location": {
+      "zip_code": "",
+      "coordinates": {}
+    },
+    "amenities": {
+      "surface": "Natural",
+      "status": ""
+    },
+    "details": {
+      "park_id": 1185,
+      "property_number": "",
+      "system": "Q083-DOGAREA0009",
+      "gispropnum": "Q083",
+      "department": "Q-05",
+      "parentid": "Q015-ZN01",
+      "precinct": "83",
+      "dog_area_type": "Dog Run",
+      "featurestatus": "Active"
+    }
+  },
+  {
+    "name": "East River Esplanade Waterfront Dog Run",
+    "borough": "M",
+    "location": {
+      "zip_code": "",
+      "coordinates": {}
+    },
+    "amenities": {
+      "surface": "Concrete",
+      "status": ""
+    },
+    "details": {
+      "park_id": 1184,
+      "property_number": "",
+      "system": "M391-DOGAREA0045",
+      "gispropnum": "M391",
+      "department": "M-01",
+      "parentid": "M391-ZN01",
+      "councildistrict": "1",
+      "precinct": "1",
+      "dog_area_type": "Dog Run",
+      "seating": "Yes",
+      "featurestatus": "Active"
+    }
+  },
+  {
+    "name": "North End Dog Run",
+    "borough": "M",
+    "location": {
+      "zip_code": "",
+      "coordinates": {}
+    },
+    "amenities": {
+      "surface": "Unknown",
+      "status": ""
+    },
+    "details": {
+      "park_id": 1182,
+      "property_number": "",
+      "system": "M283-DOGAREA0041",
+      "gispropnum": "M283",
+      "department": "M-01",
+      "parentid": "M283-ZN02",
+      "communityboard": "101",
+      "councildistrict": "1",
+      "precinct": "1",
+      "dog_area_type": "Dog Run",
+      "seating": "Yes",
+      "featurestatus": "Active"
+    }
+  },
+  {
+    "name": "Robin Kovary Run for Small Dogs",
+    "borough": "M",
+    "location": {
+      "zip_code": "10011",
+      "coordinates": {}
+    },
+    "amenities": {
+      "surface": "Natural",
+      "status": ""
+    },
+    "details": {
+      "park_id": 784,
+      "property_number": "",
+      "system": "M098-DOGAREA0029",
+      "gispropnum": "M098",
+      "department": "M-02",
+      "parentid": "M098-ZN02",
+      "communityboard": "102",
+      "councildistrict": "1",
+      "precinct": "6",
+      "dog_area_type": "Dog Run",
+      "seating": "Yes",
+      "featurestatus": "Active"
+    }
+  },
+  {
+    "name": "Stuyvesant Square Dog Park",
+    "borough": "M",
+    "location": {
+      "zip_code": "10003",
+      "coordinates": {}
+    },
+    "amenities": {
+      "surface": "Concrete",
+      "status": ""
+    },
+    "details": {
+      "park_id": 783,
+      "property_number": "",
+      "system": "M086-DOGAREA0025",
+      "gispropnum": "M086",
+      "department": "M-06",
+      "parentid": "M086",
+      "communityboard": "106",
+      "councildistrict": "2",
+      "precinct": "13",
+      "dog_area_type": "Dog Run",
+      "seating": "Yes",
+      "featurestatus": "Active"
+    }
+  },
+  {
+    "name": "Riverside Park Dog Run (W. 142nd St.)",
+    "borough": "M",
+    "location": {
+      "zip_code": "",
+      "coordinates": {}
+    },
+    "amenities": {
+      "surface": "Natural",
+      "status": ""
+    },
+    "details": {
+      "park_id": 782,
+      "property_number": "",
+      "system": "M072-DOGAREA0021",
+      "gispropnum": "M072",
+      "department": "M-14",
+      "parentid": "M072-ZN26",
+      "communityboard": "109",
+      "councildistrict": "7",
+      "precinct": "30",
+      "dog_area_type": "Dog Run",
+      "seating": "Yes",
+      "featurestatus": "Active"
+    }
+  },
+  {
+    "name": "Canine Court Dog Run",
+    "borough": "X",
+    "location": {
+      "zip_code": "10471",
+      "coordinates": {}
+    },
+    "amenities": {
+      "surface": "Unknown",
+      "status": ""
+    },
+    "details": {
+      "park_id": 375,
+      "property_number": "",
+      "system": "X092-DOGAREA0018",
+      "gispropnum": "X092",
+      "department": "X-13",
+      "parentid": "X092-ZN06",
+      "communityboard": "226",
+      "councildistrict": "11",
+      "precinct": "50",
+      "dog_area_type": "Dog Run",
+      "featurestatus": "Active"
+    }
+  },
+  {
+    "name": "Soundview Park Dog Run",
+    "borough": "X",
+    "location": {
+      "zip_code": "10473",
+      "coordinates": {}
+    },
+    "amenities": {
+      "surface": "Sand",
+      "status": ""
+    },
+    "details": {
+      "park_id": 781,
+      "property_number": "",
+      "system": "X118-DOGAREA0023",
+      "gispropnum": "X118",
+      "department": "X-09",
+      "parentid": "X118-ZN04",
+      "communityboard": "209",
+      "councildistrict": "18",
+      "precinct": "43",
+      "dog_area_type": "Dog Run",
+      "seating": "Yes",
+      "featurestatus": "Active"
+    }
+  },
+  {
+    "name": "St. Mary's Park Dog Run",
+    "borough": "X",
+    "location": {
+      "zip_code": "10454",
+      "coordinates": {}
+    },
+    "amenities": {
+      "surface": "Natural",
+      "status": ""
+    },
+    "details": {
+      "park_id": 779,
+      "property_number": "",
+      "system": "X045-DOGAREA0014",
+      "gispropnum": "X045",
+      "department": "X-01",
+      "parentid": "X045",
+      "communityboard": "201",
+      "councildistrict": "17",
+      "precinct": "40",
+      "dog_area_type": "Dog Run",
+      "seating": "No",
+      "featurestatus": "Active"
+    }
+  },
+  {
+    "name": "Washington Park Dog Run",
+    "borough": "B",
+    "location": {
+      "zip_code": "11215",
+      "coordinates": {}
+    },
+    "amenities": {
+      "surface": "Unknown",
+      "status": ""
+    },
+    "details": {
+      "park_id": 383,
+      "property_number": "",
+      "system": "B111A-DOGAREA0027",
+      "gispropnum": "B111A",
+      "department": "B-06",
+      "parentid": "B111A",
+      "communityboard": "306",
+      "councildistrict": "39",
+      "precinct": "78",
+      "dog_area_type": "Dog Run",
+      "featurestatus": "Active"
+    }
+  },
+  {
+    "name": "Pier 6 Dog Run",
+    "borough": "B",
+    "location": {
+      "zip_code": "11201",
+      "coordinates": {}
+    },
+    "amenities": {
+      "surface": "Unknown",
+      "status": ""
+    },
+    "details": {
+      "park_id": 381,
+      "property_number": "",
+      "system": "B431-DOGAREA0043",
+      "gispropnum": "B431",
+      "department": "B-02",
+      "parentid": "B431-ZN06",
+      "communityboard": "302, 306",
+      "councildistrict": "1,33",
+      "precinct": "84",
+      "dog_area_type": "Dog Run",
+      "featurestatus": "Active"
+    }
+  },
+  {
+    "name": "Hunters Point South Park Dog Run",
+    "borough": "Q",
+    "location": {
+      "zip_code": "11101",
+      "coordinates": {}
+    },
+    "amenities": {
+      "surface": "Unknown",
+      "status": ""
+    },
+    "details": {
+      "park_id": 380,
+      "property_number": "",
+      "system": "Q471-DOGAREA0017",
+      "gispropnum": "Q471",
+      "department": "Q-02",
+      "parentid": "Q471",
+      "communityboard": "402",
+      "councildistrict": "26",
+      "precinct": "108",
+      "dog_area_type": "Dog Run",
+      "featurestatus": "Active"
+    }
+  },
+  {
+    "name": "Lou Lodati Dog Park",
+    "borough": "Q",
+    "location": {
+      "zip_code": "11104",
+      "coordinates": {}
+    },
+    "amenities": {
+      "surface": "Unknown",
+      "status": ""
+    },
+    "details": {
+      "park_id": 379,
+      "property_number": "",
+      "system": "Q340-DOGAREA0012",
+      "gispropnum": "Q340",
+      "department": "Q-02",
+      "parentid": "Q340",
+      "communityboard": "402",
+      "councildistrict": "26",
+      "precinct": "108",
+      "dog_area_type": "Dog Run",
+      "featurestatus": "Active"
+    }
+  },
+  {
+    "name": "Homer's Dog Run",
+    "borough": "M",
+    "location": {
+      "zip_code": "10034",
+      "coordinates": {}
+    },
+    "amenities": {
+      "surface": "Natural",
+      "status": ""
+    },
+    "details": {
+      "park_id": 378,
+      "property_number": "",
+      "system": "M042-DOGAREA0011",
+      "gispropnum": "M042",
+      "department": "M-12",
+      "parentid": "M042",
+      "communityboard": "112",
+      "councildistrict": "7",
+      "precinct": "34",
+      "dog_area_type": "Dog Run",
+      "featurestatus": "Active"
+    }
+  },
+  {
+    "name": "Dog Bone Run",
+    "borough": "X",
+    "location": {
+      "zip_code": "Null",
+      "coordinates": {}
+    },
+    "amenities": {
+      "surface": "Concrete",
+      "status": ""
+    },
+    "details": {
+      "park_id": 377,
+      "property_number": "",
+      "system": "X092-DOGAREA0020",
+      "gispropnum": "X092",
+      "department": "X-13",
+      "parentid": "X092-ZN14",
+      "communityboard": "Null",
+      "councildistrict": "Null",
+      "precinct": "Null",
+      "dog_area_type": "Dog Run",
+      "featurestatus": "Active"
+    }
+  },
+  {
+    "name": "Woodlawn Dog Run",
+    "borough": "X",
+    "location": {
+      "zip_code": "Null",
+      "coordinates": {}
+    },
+    "amenities": {
+      "surface": "Natural",
+      "status": ""
+    },
+    "details": {
+      "park_id": 376,
+      "property_number": "",
+      "system": "X092-DOGAREA0019",
+      "gispropnum": "X092",
+      "department": "X-13",
+      "parentid": "X092-ZN21",
+      "communityboard": "Null",
+      "councildistrict": "Null",
+      "precinct": "Null",
+      "dog_area_type": "Dog Run",
+      "featurestatus": "Active"
+    }
+  },
+  {
+    "name": "Tribeca Dog Run",
+    "borough": "M",
+    "location": {
+      "zip_code": "10007",
+      "coordinates": {}
+    },
+    "amenities": {
+      "surface": "Unknown",
+      "status": ""
+    },
+    "details": {
+      "park_id": 374,
+      "property_number": "",
+      "system": "M366-DOGAREA0044",
+      "gispropnum": "M366",
+      "department": "M-01",
+      "parentid": "M366",
+      "communityboard": "101",
+      "councildistrict": "1",
+      "precinct": "1",
+      "dog_area_type": "Dog Run",
+      "featurestatus": "Active"
+    }
+  },
+  {
+    "name": "The Rocky Run",
+    "borough": "M",
+    "location": {
+      "zip_code": "10032",
+      "coordinates": {}
+    },
+    "amenities": {
+      "surface": "Natural",
+      "status": ""
+    },
+    "details": {
+      "park_id": 371,
+      "property_number": "",
+      "system": "M028-DOGAREA0006",
+      "gispropnum": "M028",
+      "department": "M-12",
+      "parentid": "M028-ZN01B",
+      "communityboard": "112",
+      "councildistrict": "7",
+      "precinct": "33",
+      "dog_area_type": "Dog Run",
+      "seating": "Yes",
+      "featurestatus": "Active"
+    }
+  },
+  {
+    "name": "DeWitt Clinton Park Large Dog Run",
+    "borough": "M",
+    "location": {
+      "zip_code": "10019",
+      "coordinates": {}
+    },
+    "amenities": {
+      "surface": "Unknown",
+      "status": ""
+    },
+    "details": {
+      "park_id": 370,
+      "property_number": "",
+      "system": "M022-DOGAREA0005",
+      "gispropnum": "M022",
+      "department": "M-04",
+      "parentid": "M022",
+      "communityboard": "104",
+      "councildistrict": "3",
+      "precinct": "18",
+      "dog_area_type": "Dog Run",
+      "featurestatus": "Active"
+    }
+  },
+  {
+    "name": "DeWitt Clinton Park Small Dog Run",
+    "borough": "M",
+    "location": {
+      "zip_code": "10019",
+      "coordinates": {}
+    },
+    "amenities": {
+      "surface": "Unknown",
+      "status": ""
+    },
+    "details": {
+      "park_id": 369,
+      "property_number": "",
+      "system": "M022-DOGAREA0004",
+      "gispropnum": "M022",
+      "department": "M-04",
+      "parentid": "M022",
+      "communityboard": "104",
+      "councildistrict": "3",
+      "precinct": "18",
+      "dog_area_type": "Dog Run",
+      "featurestatus": "Active"
+    }
+  },
+  {
+    "name": "Brooklyn Bridge Park Dog Run",
+    "borough": "B",
+    "location": {
+      "zip_code": "11201",
+      "coordinates": {}
+    },
+    "amenities": {
+      "surface": "Unknown",
+      "status": ""
+    },
+    "details": {
+      "park_id": 359,
+      "property_number": "",
+      "system": "B431-DOGAREA0042",
+      "gispropnum": "B431",
+      "department": "B-02",
+      "parentid": "B431",
+      "communityboard": "302",
+      "councildistrict": "33",
+      "precinct": "84",
+      "dog_area_type": "Dog Run",
+      "featurestatus": "Active"
+    }
+  },
+  {
+    "name": "Williamsbridge Oval Dog Run",
+    "borough": "X",
+    "location": {
+      "zip_code": "10467",
+      "coordinates": {}
+    },
+    "amenities": {
+      "surface": "Unknown",
+      "status": ""
+    },
+    "details": {
+      "park_id": 357,
+      "property_number": "",
+      "system": "X104-DOGAREA0021",
+      "gispropnum": "X104",
+      "department": "X-07",
+      "parentid": "X104",
+      "communityboard": "207",
+      "councildistrict": "11",
+      "precinct": "52",
+      "dog_area_type": "Dog Run",
+      "featurestatus": "Active"
+    }
+  },
+  {
+    "name": "Manhattan Beach Dog Run (Oriental Boulevard)",
+    "borough": "B",
+    "location": {
+      "zip_code": "11235",
+      "coordinates": {}
+    },
+    "amenities": {
+      "surface": "Unknown",
+      "status": ""
+    },
+    "details": {
+      "park_id": 344,
+      "property_number": "",
+      "system": "B251-DOGAREA0039",
+      "gispropnum": "B251",
+      "department": "B-15",
+      "parentid": "B251-ZN03",
+      "communityboard": "315",
+      "councildistrict": "48",
+      "precinct": "61",
+      "dog_area_type": "Dog Run",
+      "featurestatus": "Active"
+    }
+  },
+  {
+    "name": "Dimattina Park Dog Run - South",
+    "borough": "B",
+    "location": {
+      "zip_code": "11231",
+      "coordinates": {}
+    },
+    "amenities": {
+      "surface": "Unknown",
+      "status": ""
+    },
+    "details": {
+      "park_id": 343,
+      "property_number": "",
+      "system": "B223A-DOGAREA0032",
+      "gispropnum": "B223A",
+      "department": "B-06",
+      "parentid": "B223A",
+      "communityboard": "306",
+      "councildistrict": "39",
+      "precinct": "76",
+      "dog_area_type": "Dog Run",
+      "featurestatus": "Active"
+    }
+  },
+  {
+    "name": "Maria Hernandez Park Dog Run",
+    "borough": "B",
+    "location": {
+      "zip_code": "11237",
+      "coordinates": {}
+    },
+    "amenities": {
+      "surface": "Unknown",
+      "status": ""
+    },
+    "details": {
+      "park_id": 342,
+      "property_number": "",
+      "system": "B016-DOGAREA0001",
+      "gispropnum": "B016",
+      "department": "B-04",
+      "parentid": "B016",
+      "communityboard": "304",
+      "councildistrict": "34",
+      "precinct": "83",
+      "dog_area_type": "Dog Run",
+      "seating": "Yes",
+      "featurestatus": "Active"
+    }
+  },
+  {
+    "name": "Sternberg Park Dog Run",
+    "borough": "B",
+    "location": {
+      "zip_code": "11206",
+      "coordinates": {}
+    },
+    "amenities": {
+      "surface": "Unknown",
+      "status": ""
+    },
+    "details": {
+      "park_id": 341,
+      "property_number": "",
+      "system": "B055-DOGAREA0014",
+      "gispropnum": "B055",
+      "department": "B-01",
+      "parentid": "B055",
+      "communityboard": "301",
+      "councildistrict": "34",
+      "precinct": "90",
+      "dog_area_type": "Dog Run",
+      "featurestatus": "Active"
+    }
+  },
+  {
+    "name": "Wolfe's Pond Park Dog Run",
+    "borough": "R",
+    "location": {
+      "zip_code": "10312",
+      "coordinates": {}
+    },
+    "amenities": {
+      "surface": "Unknown",
+      "status": ""
+    },
+    "details": {
+      "park_id": 340,
+      "property_number": "",
+      "system": "R031-DOGAREA0006",
+      "gispropnum": "R031",
+      "department": "R-03",
+      "parentid": "R031-ZN03",
+      "communityboard": "503",
+      "councildistrict": "51",
+      "precinct": "123",
+      "dog_area_type": "Dog Run",
+      "featurestatus": "Active"
+    }
+  },
+  {
+    "name": "Silver Lake Park Dog Run",
+    "borough": "R",
+    "location": {
+      "zip_code": "10301",
+      "coordinates": {}
+    },
+    "amenities": {
+      "surface": "Unknown",
+      "status": ""
+    },
+    "details": {
+      "park_id": 338,
+      "property_number": "",
+      "system": "R022-DOGAREA0004",
+      "gispropnum": "R022",
+      "department": "R-01",
+      "parentid": "R022-ZN01",
+      "communityboard": "501",
+      "councildistrict": "49",
+      "precinct": "120",
+      "dog_area_type": "Dog Run",
+      "featurestatus": "Active"
+    }
+  },
+  {
+    "name": "Conference House Park Dog Run",
+    "borough": "R",
+    "location": {
+      "zip_code": "10307",
+      "coordinates": {}
+    },
+    "amenities": {
+      "surface": "Unknown",
+      "status": ""
+    },
+    "details": {
+      "park_id": 334,
+      "property_number": "",
+      "system": "R006-DOGAREA0003",
+      "gispropnum": "R006",
+      "department": "R-03",
+      "parentid": "R006-ZN02",
+      "communityboard": "503",
+      "councildistrict": "51",
+      "precinct": "123",
+      "dog_area_type": "Dog Run",
+      "featurestatus": "Active"
+    }
+  },
+  {
+    "name": "Bloomingdale Park Dog Run",
+    "borough": "R",
+    "location": {
+      "zip_code": "10309",
+      "coordinates": {}
+    },
+    "amenities": {
+      "surface": "Natural",
+      "status": ""
+    },
+    "details": {
+      "park_id": 330,
+      "property_number": "",
+      "system": "R106-DOGAREA0014",
+      "gispropnum": "R106",
+      "department": "R-03",
+      "parentid": "R106-ZN02",
+      "communityboard": "503",
+      "councildistrict": "51",
+      "precinct": "123",
+      "dog_area_type": "Dog Run",
+      "seating": "Yes",
+      "featurestatus": "Active"
+    }
+  },
+  {
+    "name": "Windmuller Park Dog Run",
+    "borough": "Q",
+    "location": {
+      "zip_code": "11377",
+      "coordinates": {}
+    },
+    "amenities": {
+      "surface": "Unknown",
+      "status": ""
+    },
+    "details": {
+      "park_id": 326,
+      "property_number": "",
+      "system": "Q031A-DOGAREA0008",
+      "gispropnum": "Q031A",
+      "department": "Q-02",
+      "parentid": "Q031A",
+      "communityboard": "402",
+      "councildistrict": "26",
+      "precinct": "108",
+      "dog_area_type": "Dog Run",
+      "featurestatus": "Active"
+    }
+  },
+  {
+    "name": "Veteran's Grove Dog Run",
+    "borough": "Q",
+    "location": {
+      "zip_code": "11373",
+      "coordinates": {}
+    },
+    "amenities": {
+      "surface": "Unknown",
+      "status": ""
+    },
+    "details": {
+      "park_id": 325,
+      "property_number": "",
+      "system": "Q013-DOGAREA0005",
+      "gispropnum": "Q013",
+      "department": "Q-04",
+      "parentid": "Q013",
+      "communityboard": "404",
+      "councildistrict": "25",
+      "precinct": "110",
+      "dog_area_type": "Dog Run",
+      "featurestatus": "Active"
+    }
+  },
+  {
+    "name": "Underbridge Playground Dog Run",
+    "borough": "Q",
+    "location": {
+      "zip_code": "11375",
+      "coordinates": {}
+    },
+    "amenities": {
+      "surface": "Unknown",
+      "status": ""
+    },
+    "details": {
+      "park_id": 324,
+      "property_number": "",
+      "system": "Q451-DOGAREA0016",
+      "gispropnum": "Q451",
+      "department": "Q-06",
+      "parentid": "Q451",
+      "communityboard": "406",
+      "councildistrict": "29",
+      "precinct": "112",
+      "dog_area_type": "Dog Run",
+      "seating": "Yes",
+      "featurestatus": "Active"
+    }
+  },
+  {
+    "name": "Sherry Park Dog Run",
+    "borough": "Q",
+    "location": {
+      "zip_code": "11377",
+      "coordinates": {}
+    },
+    "amenities": {
+      "surface": "Unknown",
+      "status": ""
+    },
+    "details": {
+      "park_id": 323,
+      "property_number": "",
+      "system": "Q341C-DOGAREA0013",
+      "gispropnum": "Q341C",
+      "department": "Q-02",
+      "parentid": "Q341C",
+      "communityboard": "402",
+      "councildistrict": "26",
+      "precinct": "108",
+      "dog_area_type": "Dog Run",
+      "featurestatus": "Active"
+    }
+  },
+  {
+    "name": "Rockaway Freeway Dog Park",
+    "borough": "Q",
+    "location": {
+      "zip_code": "11693",
+      "coordinates": {}
+    },
+    "amenities": {
+      "surface": "Unknown",
+      "status": ""
+    },
+    "details": {
+      "park_id": 322,
+      "property_number": "",
+      "system": "Q219-DOGAREA0011",
+      "gispropnum": "Q219",
+      "department": "Q-14",
+      "parentid": "Q219-99",
+      "communityboard": "414",
+      "councildistrict": "32",
+      "precinct": "100",
+      "dog_area_type": "Dog Run",
+      "featurestatus": "Active"
+    }
+  },
+  {
+    "name": "Murray Playground Dog Run",
+    "borough": "Q",
+    "location": {
+      "zip_code": "11101",
+      "coordinates": {}
+    },
+    "amenities": {
+      "surface": "Unknown",
+      "status": ""
+    },
+    "details": {
+      "park_id": 320,
+      "property_number": "",
+      "system": "Q141-DOGAREA0010",
+      "gispropnum": "Q141",
+      "department": "Q-02",
+      "parentid": "Q141",
+      "communityboard": "402",
+      "councildistrict": "26",
+      "precinct": "108",
+      "dog_area_type": "Dog Run",
+      "featurestatus": "Active"
+    }
+  },
+  {
+    "name": "Little Bay Park Dog Run",
+    "borough": "Q",
+    "location": {
+      "zip_code": "11360",
+      "coordinates": {}
+    },
+    "amenities": {
+      "surface": "Unknown",
+      "status": ""
+    },
+    "details": {
+      "park_id": 318,
+      "property_number": "",
+      "system": "Q010A-DOGAREA0003",
+      "gispropnum": "Q010A",
+      "department": "Q-11",
+      "parentid": "Q010A-ZN01",
+      "communityboard": "407",
+      "councildistrict": "19",
+      "precinct": "109",
+      "dog_area_type": "Dog Run",
+      "featurestatus": "Active"
+    }
+  },
+  {
+    "name": "Forest Park Dog Run",
+    "borough": "Q",
+    "location": {
+      "zip_code": "11385",
+      "coordinates": {}
+    },
+    "amenities": {
+      "surface": "Unknown",
+      "status": ""
+    },
+    "details": {
+      "park_id": 317,
+      "property_number": "",
+      "system": "Q015-DOGAREA0006",
+      "gispropnum": "Q015",
+      "department": "Q-16",
+      "parentid": "Q015-ZN07",
+      "communityboard": "482",
+      "councildistrict": "30",
+      "precinct": "102",
+      "dog_area_type": "Dog Run",
+      "featurestatus": "Active"
+    }
+  },
+  {
+    "name": "Cunningham Park Dog Run",
+    "borough": "Q",
+    "location": {
+      "zip_code": "11423",
+      "coordinates": {}
+    },
+    "amenities": {
+      "surface": "Unknown",
+      "status": ""
+    },
+    "details": {
+      "park_id": 316,
+      "property_number": "",
+      "system": "Q021-DOGAREA0007",
+      "gispropnum": "Q021",
+      "department": "Q-08",
+      "parentid": "Q021-ZN01",
+      "communityboard": "408",
+      "councildistrict": "23",
+      "precinct": "107",
+      "dog_area_type": "Dog Run",
+      "featurestatus": "Active"
+    }
+  },
+  {
+    "name": "Washington Square Park Dog Run",
+    "borough": "M",
+    "location": {
+      "zip_code": "10011",
+      "coordinates": {}
+    },
+    "amenities": {
+      "surface": "Unknown",
+      "status": ""
+    },
+    "details": {
+      "park_id": 313,
+      "property_number": "",
+      "system": "M098-DOGAREA0028",
+      "gispropnum": "M098",
+      "department": "M-02",
+      "parentid": "M098-ZN01",
+      "communityboard": "102",
+      "councildistrict": "1",
+      "precinct": "6",
+      "dog_area_type": "Dog Run",
+      "featurestatus": "Active"
+    }
+  },
+  {
+    "name": "Union Square Park Dog Run",
+    "borough": "M",
+    "location": {
+      "zip_code": "10003",
+      "coordinates": {}
+    },
+    "amenities": {
+      "surface": "Unknown",
+      "status": ""
+    },
+    "details": {
+      "park_id": 312,
+      "property_number": "",
+      "system": "M089-DOGAREA0027",
+      "gispropnum": "M089",
+      "department": "M-05",
+      "parentid": "M089",
+      "communityboard": "105",
+      "councildistrict": "2",
+      "precinct": "13",
+      "dog_area_type": "Dog Run",
+      "featurestatus": "Active"
+    }
+  },
+  {
+    "name": "Tompkins Square Park Dog Run",
+    "borough": "M",
+    "location": {
+      "zip_code": "10009",
+      "coordinates": {}
+    },
+    "amenities": {
+      "surface": "Unknown",
+      "status": ""
+    },
+    "details": {
+      "park_id": 311,
+      "property_number": "",
+      "system": "M088-DOGAREA0026",
+      "gispropnum": "M088",
+      "department": "M-03",
+      "parentid": "M088",
+      "communityboard": "103",
+      "councildistrict": "2",
+      "precinct": "9",
+      "dog_area_type": "Dog Run",
+      "featurestatus": "Active"
+    }
+  },
+  {
+    "name": "Theodore Roosevelt Park Dog Run",
+    "borough": "M",
+    "location": {
+      "zip_code": "10024",
+      "coordinates": {}
+    },
+    "amenities": {
+      "surface": "Unknown",
+      "status": ""
+    },
+    "details": {
+      "park_id": 309,
+      "property_number": "",
+      "system": "M053-DOGAREA0014",
+      "gispropnum": "M053",
+      "department": "M-07",
+      "parentid": "M053",
+      "communityboard": "107",
+      "councildistrict": "6",
+      "precinct": "20",
+      "dog_area_type": "Dog Run",
+      "featurestatus": "Active"
+    }
+  },
+  {
+    "name": "St. Nicholas Park Dog Run",
+    "borough": "M",
+    "location": {
+      "zip_code": "10031",
+      "coordinates": {}
+    },
+    "amenities": {
+      "surface": "Unknown",
+      "status": ""
+    },
+    "details": {
+      "park_id": 308,
+      "property_number": "",
+      "system": "M077-DOGAREA0022",
+      "gispropnum": "M077",
+      "department": "M-09",
+      "parentid": "M077-ZN02",
+      "communityboard": "109",
+      "councildistrict": "7",
+      "precinct": "26",
+      "dog_area_type": "Dog Run",
+      "featurestatus": "Active"
+    }
+  },
+  {
+    "name": "Robert Moses Playground Dog Run",
+    "borough": "M",
+    "location": {
+      "zip_code": "10017",
+      "coordinates": {}
+    },
+    "amenities": {
+      "surface": "Unknown",
+      "status": ""
+    },
+    "details": {
+      "park_id": 307,
+      "property_number": "",
+      "system": "M158-DOGAREA0039",
+      "gispropnum": "M158",
+      "department": "M-06",
+      "parentid": "M158",
+      "communityboard": "106",
+      "councildistrict": "4",
+      "precinct": "17",
+      "dog_area_type": "Dog Run",
+      "featurestatus": "Active"
+    }
+  },
+  {
+    "name": "Riverside Park Dog Run (72nd St)",
+    "borough": "M",
+    "location": {
+      "zip_code": "10024",
+      "coordinates": {}
+    },
+    "amenities": {
+      "surface": "Unknown",
+      "status": ""
+    },
+    "details": {
+      "park_id": 306,
+      "property_number": "",
+      "system": "M071-DOGAREA0019",
+      "gispropnum": "M071",
+      "department": "M-14",
+      "parentid": "M071-ZN01",
+      "communityboard": "107",
+      "councildistrict": "6",
+      "precinct": "20",
+      "dog_area_type": "Dog Run",
+      "featurestatus": "Active"
+    }
+  },
+  {
+    "name": "Riverside Park Dog Run (87th St)",
+    "borough": "M",
+    "location": {
+      "zip_code": "10024",
+      "coordinates": {}
+    },
+    "amenities": {
+      "surface": "Unknown",
+      "status": ""
+    },
+    "details": {
+      "park_id": 305,
+      "property_number": "",
+      "system": "M071-DOGAREA0018",
+      "gispropnum": "M071",
+      "department": "M-14",
+      "parentid": "M071-ZN06",
+      "communityboard": "107",
+      "councildistrict": "6",
+      "precinct": "20, 24",
+      "dog_area_type": "Dog Run",
+      "featurestatus": "Active"
+    }
+  },
+  {
+    "name": "Riverside Park Dog Run (105th St)",
+    "borough": "M",
+    "location": {
+      "zip_code": "10024",
+      "coordinates": {}
+    },
+    "amenities": {
+      "surface": "Unknown",
+      "status": ""
+    },
+    "details": {
+      "park_id": 304,
+      "property_number": "",
+      "system": "M071-DOGAREA0017",
+      "gispropnum": "M071",
+      "department": "M-14",
+      "parentid": "M071-ZN14",
+      "communityboard": "107",
+      "councildistrict": "9",
+      "precinct": "24",
+      "dog_area_type": "Dog Run",
+      "featurestatus": "Active"
+    }
+  },
+  {
+    "name": "Peter Detmold Park Dog Run",
+    "borough": "M",
+    "location": {
+      "zip_code": "10022",
+      "coordinates": {}
+    },
+    "amenities": {
+      "surface": "Unknown",
+      "status": ""
+    },
+    "details": {
+      "park_id": 302,
+      "property_number": "",
+      "system": "M108N-DOGAREA0035",
+      "gispropnum": "M108N",
+      "department": "M-06",
+      "parentid": "M108N",
+      "communityboard": "106",
+      "councildistrict": "5",
+      "precinct": "17",
+      "dog_area_type": "Dog Run",
+      "seating": "Yes",
+      "featurestatus": "Active"
+    }
+  },
+  {
+    "name": "Morningside Park Dog Run",
+    "borough": "M",
+    "location": {
+      "zip_code": "10026",
+      "coordinates": {}
+    },
+    "amenities": {
+      "surface": "Unknown",
+      "status": ""
+    },
+    "details": {
+      "park_id": 301,
+      "property_number": "",
+      "system": "M056-DOGAREA0015",
+      "gispropnum": "M056",
+      "department": "M-09",
+      "parentid": "M056-ZN01",
+      "communityboard": "109",
+      "councildistrict": "9",
+      "precinct": "26",
+      "dog_area_type": "Dog Run",
+      "featurestatus": "Active"
+    }
+  },
+  {
+    "name": "Thomas Jefferson Park Dog Run",
+    "borough": "M",
+    "location": {
+      "zip_code": "10029",
+      "coordinates": {}
+    },
+    "amenities": {
+      "surface": "Unknown",
+      "status": ""
+    },
+    "details": {
+      "park_id": 310,
+      "property_number": "",
+      "system": "M047-DOGAREA0012",
+      "gispropnum": "M047",
+      "department": "M-11",
+      "parentid": "M047",
+      "communityboard": "111",
+      "councildistrict": "8",
+      "precinct": "23",
+      "dog_area_type": "Dog Run",
+      "featurestatus": "Active"
+    }
+  },
+  {
+    "name": "Marcus Garvey Park Dog Run",
+    "borough": "M",
+    "location": {
+      "zip_code": "10027",
+      "coordinates": {}
+    },
+    "amenities": {
+      "surface": "Unknown",
+      "status": ""
+    },
+    "details": {
+      "park_id": 300,
+      "property_number": "",
+      "system": "M058-DOGAREA0016",
+      "gispropnum": "M058",
+      "department": "M-11",
+      "parentid": "M058-ZN02",
+      "communityboard": "111",
+      "councildistrict": "9",
+      "precinct": "25",
+      "dog_area_type": "Dog Run",
+      "featurestatus": "Active"
+    }
+  },
+  {
+    "name": "Madison Square Park Dog Run",
+    "borough": "M",
+    "location": {
+      "zip_code": "10010",
+      "coordinates": {}
+    },
+    "amenities": {
+      "surface": "Unknown",
+      "status": ""
+    },
+    "details": {
+      "park_id": 299,
+      "property_number": "",
+      "system": "M052-DOGAREA0013",
+      "gispropnum": "M052",
+      "department": "M-05",
+      "parentid": "M052",
+      "communityboard": "105",
+      "councildistrict": "3",
+      "precinct": "13",
+      "dog_area_type": "Dog Run",
+      "featurestatus": "Active"
+    }
+  },
+  {
+    "name": "J. Hood Wright Park Dog Run",
+    "borough": "M",
+    "location": {
+      "zip_code": "10033",
+      "coordinates": {}
+    },
+    "amenities": {
+      "surface": "Unknown",
+      "status": ""
+    },
+    "details": {
+      "park_id": 298,
+      "property_number": "",
+      "system": "M099-DOGAREA0030",
+      "gispropnum": "M099",
+      "department": "M-12",
+      "parentid": "M099",
+      "communityboard": "112",
+      "councildistrict": "10",
+      "precinct": "33",
+      "dog_area_type": "Dog Run",
+      "featurestatus": "Active"
+    }
+  },
+  {
+    "name": "Highbridge Park Dog Run",
+    "borough": "M",
+    "location": {
+      "zip_code": "10040",
+      "coordinates": {}
+    },
+    "amenities": {
+      "surface": "Unknown",
+      "status": ""
+    },
+    "details": {
+      "park_id": 294,
+      "property_number": "",
+      "system": "M037-DOGAREA0009",
+      "gispropnum": "M037",
+      "department": "M-12A",
+      "parentid": "M037-ZN04",
+      "communityboard": "112",
+      "councildistrict": "10",
+      "precinct": "34",
+      "dog_area_type": "Dog Run",
+      "featurestatus": "Active"
+    }
+  },
+  {
+    "name": "Fort Tryon Park Dog Run",
+    "borough": "M",
+    "location": {
+      "zip_code": "10040",
+      "coordinates": {}
+    },
+    "amenities": {
+      "surface": "Unknown",
+      "status": ""
+    },
+    "details": {
+      "park_id": 293,
+      "property_number": "",
+      "system": "M029-DOGAREA0008",
+      "gispropnum": "M029",
+      "department": "M-12",
+      "parentid": "M029-ZN03",
+      "communityboard": "112",
+      "councildistrict": "7",
+      "precinct": "34",
+      "dog_area_type": "Dog Run",
+      "featurestatus": "Active"
+    }
+  },
+  {
+    "name": "Fishbridge Garden Dog Run",
+    "borough": "M",
+    "location": {
+      "zip_code": "10038",
+      "coordinates": {}
+    },
+    "amenities": {
+      "surface": "Unknown",
+      "status": ""
+    },
+    "details": {
+      "park_id": 292,
+      "property_number": "",
+      "system": "M291-DOGAREA0043",
+      "gispropnum": "M291",
+      "department": "M-01",
+      "parentid": "M291",
+      "communityboard": "101",
+      "councildistrict": "1",
+      "precinct": "1",
+      "dog_area_type": "Dog Run",
+      "featurestatus": "Active"
+    }
+  },
+  {
+    "name": "Andrew Haswell Green Dog Run",
+    "borough": "M",
+    "location": {
+      "zip_code": "10065",
+      "coordinates": {}
+    },
+    "amenities": {
+      "surface": "Unknown",
+      "status": ""
+    },
+    "details": {
+      "park_id": 290,
+      "property_number": "",
+      "system": "M108Q1-DOGAREA0036",
+      "gispropnum": "M108Q1",
+      "department": "M-15",
+      "parentid": "M108T-ZN05",
+      "communityboard": "108",
+      "councildistrict": "5",
+      "precinct": "19",
+      "dog_area_type": "Dog Run",
+      "seating": "Yes",
+      "featurestatus": "Active"
+    }
+  },
+  {
+    "name": "Corlears Hook Park Dog Run",
+    "borough": "M",
+    "location": {
+      "zip_code": "10002",
+      "coordinates": {}
+    },
+    "amenities": {
+      "surface": "Unknown",
+      "status": ""
+    },
+    "details": {
+      "park_id": 289,
+      "property_number": "",
+      "system": "M017-DOGAREA0002",
+      "gispropnum": "M017",
+      "department": "M-03",
+      "parentid": "M017",
+      "communityboard": "103",
+      "councildistrict": "2",
+      "precinct": "7",
+      "dog_area_type": "Dog Run",
+      "featurestatus": "Active"
+    }
+  },
+  {
+    "name": "Coleman Oval Park Dog Run",
+    "borough": "M",
+    "location": {
+      "zip_code": "10002",
+      "coordinates": {}
+    },
+    "amenities": {
+      "surface": "Unknown",
+      "status": ""
+    },
+    "details": {
+      "park_id": 288,
+      "property_number": "",
+      "system": "M019-DOGAREA0003",
+      "gispropnum": "M019",
+      "department": "M-03",
+      "parentid": "M019",
+      "communityboard": "103",
+      "councildistrict": "1",
+      "precinct": "5",
+      "dog_area_type": "Dog Run",
+      "seating": "Yes",
+      "featurestatus": "Active"
+    }
+  },
+  {
+    "name": "Carl Schurz Park Small Dog Run",
+    "borough": "M",
+    "location": {
+      "zip_code": "10028",
+      "coordinates": {}
+    },
+    "amenities": {
+      "surface": "Unknown",
+      "status": ""
+    },
+    "details": {
+      "park_id": 286,
+      "property_number": "",
+      "system": "M081-DOGAREA0024",
+      "gispropnum": "M081",
+      "department": "M-08",
+      "parentid": "M081-ZN01",
+      "communityboard": "108",
+      "councildistrict": "5",
+      "precinct": "19",
+      "dog_area_type": "Dog Run",
+      "featurestatus": "Active"
+    }
+  },
+  {
+    "name": "Carl Schurz Park Large Dog Run",
+    "borough": "M",
+    "location": {
+      "zip_code": "10028",
+      "coordinates": {}
+    },
+    "amenities": {
+      "surface": "Unknown",
+      "status": ""
+    },
+    "details": {
+      "park_id": 285,
+      "property_number": "",
+      "system": "M081-DOGAREA0023",
+      "gispropnum": "M081",
+      "department": "M-08",
+      "parentid": "M081-ZN01",
+      "communityboard": "108",
+      "councildistrict": "5",
+      "precinct": "19",
+      "dog_area_type": "Dog Run",
+      "featurestatus": "Active"
+    }
+  },
+  {
+    "name": "Adam Yauch Park Dog Run",
+    "borough": "B",
+    "location": {
+      "zip_code": "11201",
+      "coordinates": {}
+    },
+    "amenities": {
+      "surface": "Unknown",
+      "status": ""
+    },
+    "details": {
+      "park_id": 281,
+      "property_number": "",
+      "system": "B223DA-DOGAREA0034",
+      "gispropnum": "B223DA",
+      "department": "B-02",
+      "parentid": "B223DA",
+      "communityboard": "302",
+      "councildistrict": "33",
+      "precinct": "84",
+      "dog_area_type": "Dog Run",
+      "featurestatus": "Active"
+    }
+  },
+  {
+    "name": "Owl's Head Park Dog Run",
+    "borough": "B",
+    "location": {
+      "zip_code": "11220",
+      "coordinates": {}
+    },
+    "amenities": {
+      "surface": "Unknown",
+      "status": ""
+    },
+    "details": {
+      "park_id": 280,
+      "property_number": "",
+      "system": "B066-DOGAREA0018",
+      "gispropnum": "B066",
+      "department": "B-10",
+      "parentid": "B066",
+      "communityboard": "310",
+      "councildistrict": "43",
+      "precinct": "68",
+      "dog_area_type": "Dog Run",
+      "featurestatus": "Active"
+    }
+  },
+  {
+    "name": "McGolrick Park Dog Run",
+    "borough": "B",
+    "location": {
+      "zip_code": "11222",
+      "coordinates": {}
+    },
+    "amenities": {
+      "surface": "Unknown",
+      "status": ""
+    },
+    "details": {
+      "park_id": 277,
+      "property_number": "",
+      "system": "B114-DOGAREA0029",
+      "gispropnum": "B114",
+      "department": "B-01",
+      "parentid": "B114",
+      "communityboard": "301",
+      "councildistrict": "33",
+      "precinct": "94",
+      "dog_area_type": "Dog Run",
+      "featurestatus": "Active"
+    }
+  },
+  {
+    "name": "McCarren Park Dog Run",
+    "borough": "B",
+    "location": {
+      "zip_code": "11211",
+      "coordinates": {}
+    },
+    "amenities": {
+      "surface": "Unknown",
+      "status": ""
+    },
+    "details": {
+      "park_id": 276,
+      "property_number": "",
+      "system": "B058-DOGAREA0016",
+      "gispropnum": "B058",
+      "department": "B-01",
+      "parentid": "B058-ZN05",
+      "communityboard": "301",
+      "councildistrict": "33",
+      "precinct": "94",
+      "dog_area_type": "Dog Run",
+      "featurestatus": "Active"
+    }
+  },
+  {
+    "name": "Hillside Park Dog Run",
+    "borough": "B",
+    "location": {
+      "zip_code": "11201",
+      "coordinates": {}
+    },
+    "amenities": {
+      "surface": "Unknown",
+      "status": ""
+    },
+    "details": {
+      "park_id": 269,
+      "property_number": "",
+      "system": "B223G-DOGAREA0035",
+      "gispropnum": "B223G",
+      "department": "B-02",
+      "parentid": "B223G",
+      "communityboard": "302",
+      "councildistrict": "33",
+      "precinct": "84",
+      "dog_area_type": "Dog Run",
+      "featurestatus": "Active"
+    }
+  },
+  {
+    "name": "Herbert Von King Park Dog Run",
+    "borough": "B",
+    "location": {
+      "zip_code": "11216",
+      "coordinates": {}
+    },
+    "amenities": {
+      "surface": "Unknown",
+      "status": ""
+    },
+    "details": {
+      "park_id": 267,
+      "property_number": "",
+      "system": "B088-DOGAREA0024",
+      "gispropnum": "B088",
+      "department": "B-03",
+      "parentid": "B088",
+      "communityboard": "303",
+      "councildistrict": "36",
+      "precinct": "79",
+      "dog_area_type": "Dog Run",
+      "featurestatus": "Active"
+    }
+  },
+  {
+    "name": "Dyker Beach Park Dog Run",
+    "borough": "B",
+    "location": {
+      "zip_code": "11228",
+      "coordinates": {}
+    },
+    "amenities": {
+      "surface": "Unknown",
+      "status": ""
+    },
+    "details": {
+      "park_id": 266,
+      "property_number": "",
+      "system": "B028-DOGAREA0007",
+      "gispropnum": "B028",
+      "department": "B-10",
+      "parentid": "B028",
+      "communityboard": "310",
+      "councildistrict": "50",
+      "precinct": "68",
+      "dog_area_type": "Dog Run",
+      "featurestatus": "Active"
+    }
+  },
+  {
+    "name": "DiMattina Park Dog Run - North",
+    "borough": "B",
+    "location": {
+      "zip_code": "11231",
+      "coordinates": {}
+    },
+    "amenities": {
+      "surface": "Unknown",
+      "status": ""
+    },
+    "details": {
+      "park_id": 265,
+      "property_number": "",
+      "system": "B223B-DOGAREA0033",
+      "gispropnum": "B223B",
+      "department": "B-06",
+      "parentid": "B223B",
+      "communityboard": "306",
+      "councildistrict": "39",
+      "precinct": "76",
+      "dog_area_type": "Dog Run",
+      "featurestatus": "Active"
+    }
+  },
+  {
+    "name": "Seton Park Dog Run",
+    "borough": "X",
+    "location": {
+      "zip_code": "10471",
+      "coordinates": {}
+    },
+    "amenities": {
+      "surface": "Unknown",
+      "status": ""
+    },
+    "details": {
+      "park_id": 260,
+      "property_number": "",
+      "system": "X201-DOGAREA0027",
+      "gispropnum": "X201",
+      "department": "X-08",
+      "parentid": "X201",
+      "communityboard": "208",
+      "councildistrict": "11",
+      "precinct": "50",
+      "dog_area_type": "Dog Run",
+      "featurestatus": "Active"
+    }
+  },
+  {
+    "name": "Pelham Bay Park Dog Run",
+    "borough": "X",
+    "location": {
+      "zip_code": "10465",
+      "coordinates": {}
+    },
+    "amenities": {
+      "surface": "Unknown",
+      "status": ""
+    },
+    "details": {
+      "park_id": 258,
+      "property_number": "",
+      "system": "X039-DOGAREA0012",
+      "gispropnum": "X039",
+      "department": "X-15",
+      "parentid": "X039-ZN04",
+      "communityboard": "228",
+      "councildistrict": "13",
+      "precinct": "45",
+      "dog_area_type": "Dog Run",
+      "featurestatus": "Active"
+    }
+  },
+  {
+    "name": "Franz Sigel Park Dog Run",
+    "borough": "X",
+    "location": {
+      "zip_code": "10451",
+      "coordinates": {}
+    },
+    "amenities": {
+      "surface": "Unknown",
+      "status": ""
+    },
+    "details": {
+      "park_id": 257,
+      "property_number": "",
+      "system": "X047-DOGAREA0015",
+      "gispropnum": "X047",
+      "department": "X-04",
+      "parentid": "X047",
+      "communityboard": "204",
+      "councildistrict": "17",
+      "precinct": "44",
+      "dog_area_type": "Dog Run",
+      "featurestatus": "Active"
+    }
+  },
+  {
+    "name": "Ewen Park Dog Run",
+    "borough": "X",
+    "location": {
+      "zip_code": "10463",
+      "coordinates": {}
+    },
+    "amenities": {
+      "surface": "Unknown",
+      "status": ""
+    },
+    "details": {
+      "park_id": 255,
+      "property_number": "",
+      "system": "X019-DOGAREA0007",
+      "gispropnum": "X019",
+      "department": "X-08",
+      "parentid": "X019",
+      "communityboard": "208",
+      "councildistrict": "11",
+      "precinct": "50",
+      "dog_area_type": "Dog Run",
+      "featurestatus": "Active"
+    }
+  }
+]
